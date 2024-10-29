@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manjureddy97/aaxiomcrest-portfolio/static/css/main.0f42499b.css",
+    "main.js": "/manjureddy97/aaxiomcrest-portfolio/static/js/main.8a70e187.js",
+    "index.html": "/manjureddy97/aaxiomcrest-portfolio/index.html",
+    "main.0f42499b.css.map": "/manjureddy97/aaxiomcrest-portfolio/static/css/main.0f42499b.css.map",
+    "main.8a70e187.js.map": "/manjureddy97/aaxiomcrest-portfolio/static/js/main.8a70e187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f42499b.css",
+    "static/js/main.8a70e187.js"
+  ]
+}
